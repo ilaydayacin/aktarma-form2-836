@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aktarma-836", "Aktarma-836\Aktarma-836.csproj", "{CCBC9B99-06EA-4F06-A29D-925AB6057EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBC9B99-06EA-4F06-A29D-925AB6057EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBC9B99-06EA-4F06-A29D-925AB6057EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBC9B99-06EA-4F06-A29D-925AB6057EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBC9B99-06EA-4F06-A29D-925AB6057EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE19578-0ADE-4B9D-A7D7-95F73043ECDE}
+	EndGlobalSection
+EndGlobal

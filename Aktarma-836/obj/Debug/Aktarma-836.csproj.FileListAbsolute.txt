@@ -1,0 +1,21 @@
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\bin\Debug\Aktarma-836.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\bin\Debug\Aktarma-836.exe
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\bin\Debug\Aktarma-836.pdb
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\obj\Debug\Aktarma-836.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\obj\Debug\Aktarma_836.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\obj\Debug\Aktarma_836.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\obj\Debug\Aktarma-836.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\obj\Debug\Aktarma-836.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\obj\Debug\Aktarma-836.exe
+C:\Users\Win10\Desktop\ilkay py\c\Aktarma-836\Aktarma-836\obj\Debug\Aktarma-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\bin\Debug\Aktarma-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\bin\Debug\Aktarma-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\bin\Debug\Aktarma-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\aktarmaform2deneme-836-main\aktarmaform2deneme-836-main\Aktarma-836\obj\Debug\Aktarma-836.pdb
